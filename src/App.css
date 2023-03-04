@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(196, 17, 17);
 }
 
 .App-link {
@@ -35,4 +35,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.modalBtn {
+  position: fixed;
+  opacity: 0;
+  padding: 20px;
+}
+
+.overlay {
+  background-color: rgb(58, 146, 159);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.modalContainer{
+  max-width: 600px;
+  width: 100%;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+}
+
+.closeBtn {
+  position: fixed;
+  font-size: x-large;
+  color: rgb(234, 100, 4);
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.jumbotron {
+  color: rgb(39, 136, 136);
+  text-align: center;
+}
+
+.card {
+  background-color: rgb(147, 197, 197);
+  width: 600px;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 25px;
 }

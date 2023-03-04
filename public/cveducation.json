@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "institution": "Edugrade",
+    "name": "Systemutvecklare.NET med AI-kompetens.",
+    "studyType": "Fulltime",
+    "startYear": 2022,
+    "endYear": 2024,
+    "summary": "Edugrade is part of the Hexatronic Group and has conducted qualified training in IT and telecommunications under the name Iftac since 1997. The company was one of the pioneers in the field and has trained both in Sweden and internationally for many years. In Sweden, the companies conduct polytechnics and labor market training in IT and telecom, where a large number of students go from education straight into working life. The training is an important channel for securing the availability of skills in a growing industry."
+  },
+  {
+    "id": 2,
+    "institution": "Mittuniversitetet",
+    "name": "Programmet för hälsa och reahabilitering i arbetslivet.",
+    "studyType": "Fulltime",
+    "startYear": 2016,
+    "endYear": 2019,
+    "summary": "The program focuses on providing an in-depth orientation and knowledge of health and rehabilitation in working life from an individual, organizational and societal perspective. The education is multidisciplinary and includes, among other things, psychology, sociology and law, which is suitable for work in rehabilitation and coordination, within business management, human resources departments, investigative work and managerial positions."
+  }
+]
