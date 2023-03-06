@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1, 
+    "company": "Försäkringskassan",
+    "position": "Caseworker",
+    "startDate": "2019-16-01",
+    "endDate": "Current work",
+    "summary": "Investigates and assesses the right to sickness benefit daily through the application and the documentation submitted by the customer based on current guidelines and legislation. Further documentation is obtained in writing or by telephone contact with both customer and with employer. The work is planned and carried out independently and I myself am responsible for arranging the working hours in the best way. The work also requires flexibility from us investigators as many different programs are used at the different tasks"
+  },
+  {
+    "id": 2, 
+    "company": "Mornington hotel Bromma",
+    "position": "Receptionist",
+    "startDate": "2016-03-01",
+    "endDate": "2018-12-31",
+    "summary": "Customary administrative tasks and customer contact such as check-in and check-out, invoicing, conference work, cash management, providing information, managing questions about bookings and maintain the customer relationship. Communication and problem solving were in focus!"
+  },
+  {
+    "id": 3, 
+    "company": "Ulfsunda slott",
+    "position": "Conference hostess",
+    "startDate": "2014-10-01",
+    "endDate": "2016-02-28",
+    "summary": "At Ulfsunda Castle I worked as a hostess and coordinator. I made sure to coordinate the conference, handling the schedule and made sure that the groups had a pleasant experience. I was personally responsible for my tasks and that the guests had a good conference experience. The work involved tasks such as prepare coffee, take care of the premises, support and reconciliation with conference groups to meet their needs during their stay. In this work it was important with good communication, good customer contact and planning skills."
+  }, 
+  {
+    "id": 4, 
+    "company": "Samba sushi",
+    "position": "Sushi chef",
+    "startDate": "2013-95-01",
+    "endDate": "2014-09-30",
+    "summary": "A nice and personal restaurant where I worked both at the checkout/serving and in the open kitchen preparing sushi. Prepare food in an open kitchen requires accuracy and a fast pace without losing the quality. My time at Samba sushi gave me a very good experience. I had to learn how to deal with stress and find solutions when problems arose. The workplace gave me an understanding to see both the big picture and the smaller details."
+  }
+]
